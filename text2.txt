@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 gggggg
 dddddd
+=======
+gggggg
+>>>>>>> 1a6de0d626573f9d90582fab54d9a584630686c7
